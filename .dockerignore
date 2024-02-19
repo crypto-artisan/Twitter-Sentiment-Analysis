@@ -1,0 +1,11 @@
+data/*
+model/.ipynb_checkpoints
+model/model.ipynb
+model/model_weights.h5
+venv/*
+api/__pycache__
+scripts/*
+utils/__pycache__
+.gitignore
+LICENSE
+README.md
